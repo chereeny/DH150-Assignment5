@@ -11,7 +11,7 @@ Improve and create a better categorization of items by using images and better d
 Better interface on the item posting page to allow people to easily find the contact information of the seller. 
 
 ## Persona 1:
-
+(./Henry.png)
 Henry is a 4th year college student who enjoys being around his friend at all time and enjoys going on different adventures with them. He is currently saving up money when he moves out of the university area apartments and also to pay off his loans that he took for school. He is constantly going out to hike and meet others at parties and gatherings to expand his connections but to also just to meet new people. 
 
 Name: Henry Martin
